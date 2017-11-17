@@ -1,6 +1,6 @@
 # html-css
 
-### The ultimate cheatsheet: all web design guidelines in one place Section 4, Lecture 31 This cheat sheet is intended to serve as a quick reference for you.
+### The ultimate cheatsheet:
 
 It contains all the guidelines I showed you in this web design section.
 
@@ -8,7 +8,7 @@ It is very important that you have all of the guidelines in mind at the same tim
 
 
 
-###### Beautiful Typography
+#### Beautiful Typography
 
 1. Use a font-size between 15 and 25 pixels for body text
 
@@ -26,7 +26,7 @@ It is very important that you have all of the guidelines in mind at the same tim
 
 
 
-###### Using Colors Like a Pro
+#### Using Colors Like a Pro
 
 1. Use only one base color
 
@@ -40,7 +40,7 @@ It is very important that you have all of the guidelines in mind at the same tim
 
 
 
-###### Working with Images
+#### Working with Images
 
 1. Put text directly on the image
 
@@ -54,7 +54,7 @@ It is very important that you have all of the guidelines in mind at the same tim
 
 
 
-###### Working with icons
+#### Working with icons
 
 1. Use icons to list features/steps
 
@@ -70,7 +70,7 @@ It is very important that you have all of the guidelines in mind at the same tim
 
 
 
-###### Spacing and layout
+#### Spacing and layout
 
 1. Put whitespace between your elements
 
